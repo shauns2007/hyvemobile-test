@@ -2,7 +2,7 @@
 
 namespace HyveMobileTest;
 
-require '../boot.php';
+require 'D:\wamp\www\hyve\boot.php';
 
 class ExampleClass {
     public function __construct() {

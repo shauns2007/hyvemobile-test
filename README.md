@@ -1,3 +1,4 @@
+
 Coding Task: Attached you will find a CSV data dump. Please do the following with it:
 * Import into a MySQL database.
 * Save the date and time in a single time zone, but allow us to query the local date and time of the customer's transaction, should we want to.
@@ -22,3 +23,4 @@ What we are looking for:
 * Readability
 * Testability
 * Scalability
+
